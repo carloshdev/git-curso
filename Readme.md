@@ -3,8 +3,4 @@
 Testando o GIT - Modificado 
  Continuando o Teste
 
-Teste pelo sublime
-
-até um café
-
-MAIS Um
+Testando GitHub
